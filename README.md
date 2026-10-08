@@ -69,3 +69,6 @@ instability evolved over time?**
 ## Tools
 Stata (data cleaning, panel construction, Parkinson volatility calculation,
 visualization).
+
+##Data Source
+Andrée, B. P. J. (2021). Monthly food price estimates by product and market (Version 2026-05-18). KEN_2021_RTFP_v02_M. Washington, DC: World Bank Microdata Library. https://doi.org/10.48529/2ZH0-JF55
